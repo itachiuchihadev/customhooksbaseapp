@@ -1,0 +1,6 @@
+*	text=auto
+*.sql text=doc
+
+*.js    eol=lf
+*.jsx   eol=lf
+*.json  eol=lf
